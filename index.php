@@ -18,6 +18,7 @@ and open the template in the editor.
             Password:<input type="password" name="password" /><br />
             <input type="submit" value="Login" />
         </form>
+        <span> Notes: </span>
         <?php
          
         ?>
