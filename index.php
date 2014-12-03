@@ -10,7 +10,12 @@ and open the template in the editor.
         <title>Sample</title>
     </head>
     <body>
-        <h1> This is Sample Project </h1>
+        <h1> Login </h1>
+        <form>
+            Username:<input type="text" name="username" />
+            Password:<input type="password" name="password" />
+            
+        </form>
         <?php
          
         ?>
