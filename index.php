@@ -10,7 +10,8 @@ and open the template in the editor.
         <title>Sample</title>
     </head>
     <body>
-        <h1> Login This is developer</h1>
+        <h1> Login </h1>
+	<strong> This is Master Login Page</strong>
         <form>
             Username:<input type="text" name="username" /><br />
             Password:<input type="password" name="password" /><br />
