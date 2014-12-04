@@ -21,6 +21,7 @@ and open the template in the editor.
         </form>
 1
 2
+3
         <?php
          
         ?>
