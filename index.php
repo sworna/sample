@@ -11,7 +11,8 @@ and open the template in the editor.
     </head>
     <body>
         <h1> Login </h1>
-	<strong> This is Master Login Page</strong>
+	<br />
+	<strong> This is Master Login</strong>
         <form>
             Username:<input type="text" name="username" /><br />
             Password:<input type="password" name="password" /><br />
