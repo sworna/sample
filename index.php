@@ -19,6 +19,7 @@ and open the template in the editor.
             Password:<input type="password" name="password" /><br />
             
         </form>
+1
         <?php
          
         ?>
